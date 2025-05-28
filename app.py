@@ -10,13 +10,12 @@ from abc import ABC, abstractmethod
 from collections import Counter
 from PIL import Image, ImageTk
 
-# Directory structure setup
 DATA_DIR = "data"
 USERS_DIR = os.path.join(DATA_DIR, "users")
 ATTENDANCE_DIR = os.path.join(DATA_DIR, "attendance")
-FACE_SIZE = (200, 200)  # Increased for better resolution
+FACE_SIZE = (200, 200)  # Increase for better resolution
 
-# Ensure directories exist
+# directories
 for directory in [DATA_DIR, USERS_DIR, ATTENDANCE_DIR]:
     if not os.path.exists(directory):
         os.makedirs(directory)
@@ -33,7 +32,6 @@ class HaarCascadeDetector(FaceDetector):
     """Face detector using Haar Cascade classifier"""
     
     def __init__(self):
-        # Ensure the Haar Cascade XML file is correctly loaded
         self.__face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
         if self.__face_cascade.empty():
             print("Error: Could not load Haar Cascade classifier. Make sure 'haarcascade_frontalface_default.xml' is in the OpenCV data path.")
