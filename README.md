@@ -771,16 +771,6 @@ tips = [
    - Install Microsoft Visual C++ Build Tools (Windows)
    - Use conda for dlib installation if pip fails
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Anas Raheem**
-- GitHub: [@anasraheemdev](https://github.com/anasraheemdev)
-- Email: anasraheem48@gmail.com
-
 ## 🙏 Acknowledgments
 
 - OpenCV community for computer vision tools
@@ -797,6 +787,97 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Cloud storage integration
 - [ ] Real-time notifications
 
+### 🔄 **Contribution Process**
+
+```mermaid
+gitgraph
+    commit id: "🍴 Fork Repository"
+    branch feature-branch
+    checkout feature-branch
+    commit id: "✨ Add New Feature"
+    commit id: "🧪 Add Tests"
+    commit id: "📝 Update Docs"
+    checkout main
+    merge feature-branch
+    commit id: "🎉 Feature Merged!"
+```
+
 ---
 
-**⭐ If you found this project helpful, please give it a star!**
+## 👨‍💻 Meet the Developer
+
+<div align="center">
+
+<img src="https://github.com/anasraheemdev.png" width="150" height="150" style="border-radius: 50%;" alt="Anas Raheem">
+
+### **Anas Raheem** 🚀
+*Full-Stack Developer & Software Engineer*
+
+[![GitHub](https://img.shields.io/badge/GitHub-anasraheemdev-181717?style=for-the-badge&logo=github)](https://github.com/anasraheemdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anasraheemdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://anasraheemdev.github.io)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:anasraheemdev@gmail.com)
+
+*"Building efficient solutions for complex business problems"*
+
+</div>
+
+---
+
+## 📞 Support & Community
+
+<div align="center">
+
+### 🤝 **Get Help**
+
+| Platform | Purpose | Link |
+|----------|---------|------|
+| 🐛 **GitHub Issues** | Bug reports & Feature requests | [![Issues](https://img.shields.io/badge/Open-Issues-red?logo=github)](https://github.com/anasraheemdev/Inventory-Management-C-/issues) |
+| 💬 **Discussions** | Community support & Q&A | [![Discussions](https://img.shields.io/badge/Join-Discussions-green?logo=github)](https://github.com/anasraheemdev/Inventory-Management-C-/discussions) |
+| 📧 **Email Support** | Direct developer contact | [![Email](https://img.shields.io/badge/Send-Email-blue?logo=gmail)](mailto:anasraheemdev@gmail.com) |
+| 📖 **Documentation** | Comprehensive guides | [![Docs](https://img.shields.io/badge/Read-Docs-orange?logo=gitbook)](https://github.com/anasraheemdev/Inventory-Management-C-/wiki) |
+
+### 📊 **Project Statistics**
+
+![GitHub repo size](https://img.shields.io/github/repo-size/anasraheemdev/Inventory-Management-C-?color=blue)
+![GitHub code size](https://img.shields.io/github/languages/code-size/anasraheemdev/Inventory-Management-C-?color=green)
+![GitHub last commit](https://img.shields.io/github/last-commit/anasraheemdev/Inventory-Management-C-?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/anasraheemdev/Inventory-Management-C-?color=orange)
+
+</div>
+
+---
+
+## 📄 License
+
+<div align="center">
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+*Free to use, modify, and distribute for personal and commercial projects*
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌟 **Show Your Support**
+
+**If this project helped you, please consider:**
+
+[![Star this repository](https://img.shields.io/badge/⭐-Star%20this%20repository-yellow?style=for-the-badge&logo=github)](https://github.com/anasraheemdev/Inventory-Management-C-/stargazers)
+[![Fork this repository](https://img.shields.io/badge/🍴-Fork%20this%20repository-blue?style=for-the-badge&logo=github)](https://github.com/anasraheemdev/Inventory-Management-C-/fork)
+[![Follow developer](https://img.shields.io/badge/👤-Follow%20@anasraheemdev-green?style=for-the-badge&logo=github)](https://github.com/anasraheemdev)
+
+---
+
+### 💝 **Thank you for your interest in our Inventory Management System!**
+
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+*Made with ❤️ by [Anas Raheem](https://github.com/anasraheemdev)*
+
+</div>
