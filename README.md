@@ -743,10 +743,6 @@ tips = [
 
 </details>
 
-<details>
-<summary>⚡ <strong>Performance Optimization</strong></summary>
-
-
 ## 🐛 Troubleshooting
 
 ### Common Issues
@@ -876,3 +872,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 *Made with ❤️ by [Anas Raheem](https://github.com/anasraheemdev)*
 
 </div>
+
+
+
