@@ -694,11 +694,6 @@ performance_config = {
     'threading': True,         # Multi-threading
     'gpu_acceleration': False  # CUDA support
 }
-```
-
-</details>
-
----
 
 ## 🐛 Troubleshooting & FAQ
 
