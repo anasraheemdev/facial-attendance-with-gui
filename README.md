@@ -90,7 +90,7 @@ dlib==19.24.2
 - Run `python app.py`
 - The main GUI window will open
 
-![GUI Interface](/Assets/GUI.png)
+![GUI Interface](https://piskel-imgstore-b.appspot.com/img/33b11a82-02a0-11ee-bf3f-db5eb9a6bc3e.gif)
 
 ### 2. **Register New User**
 - Click "Add New User" button
@@ -108,8 +108,6 @@ dlib==19.24.2
 - Click "View Reports" to see attendance history
 - Export data to CSV or Excel format
 - Filter by date range or user
-
-![Attendance Report](https://cdn-icons-png.freepik.com/512/3135/3135823.png)
 
 ## 🔧 Configuration
 
@@ -207,5 +205,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **⭐ If you found this project helpful, please give it a star!**
-
-![Star](https://cdn-icons-png.freepik.com/512/1828/1828884.png)
